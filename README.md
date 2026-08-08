@@ -20,3 +20,8 @@ NOT CREATED BY ME <br>
 All credits go to [Bralexanic](https://youtu.be/cubF2rvDK1w) <br>
 I just store his project's CSS. Copy and paste this  <br>
 ![View code](https://github.com/05JackGB/05JackGB-GamePad-Overlay-Skins/blob/main/NOTcreatedbyme/Gamesir-G7-Pro.css)
+
+Use the skin: [https://gamepadviewer.com/?p=1&css=https://05jackgb.github.io/GPV-8bitdo-pro2_XboxLayout/8bitdopro2.css](https://gamepadviewer.com/?p=1&css=https://05jackgb.github.io/GPV-8bitdo-pro2_XboxLayout/8bitdopro2.css)
+
+Use [test](https://gamepadviewer.com/?p=1&css=https://05jackgb.github.io/GamePad-Overlay-Skins/NOT-created-by-me/Gamesir%20G7%20Pro/gamesirg7pro.css)
+
