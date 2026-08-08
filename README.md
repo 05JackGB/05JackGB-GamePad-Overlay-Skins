@@ -8,6 +8,7 @@ This is the index for my custom controller input overlays like GamePad Viewer or
 - Xbox ABXY layout or Nintendo layout
 - Custom joystick bases
 - Redesigned triggers
-- SVG assets <br>
+- SVG assets
+
 Resources by Jota-Go, original code by DavidF and editing by me. <br>
 ![View project](https://github.com/05JackGB/GPV-8bitdo-pro2_XboxLayout)
