@@ -13,7 +13,7 @@ If it isn't, I will just store their code and svg in subfolders inside this inde
 
 Resources by Jota-Go, original code by DavidF and editing by me. <br>
 ![View project](https://github.com/05JackGB/GPV-8bitdo-pro2_XboxLayout)<br>
-![Use the skin](https://gamepadviewer.com/?p=1&css=https://05jackgb.github.io/GPV-8bitdo-pro2_XboxLayout/8bitdopro2.css)
+[Use the skin](https://gamepadviewer.com/?p=1&css=https://05jackgb.github.io/GPV-8bitdo-pro2_XboxLayout/8bitdopro2.css)
 
 
 ## Gamesir G7 Pro
