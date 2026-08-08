@@ -12,12 +12,13 @@ If it isn't, I will just store their code and svg in subfolders inside this inde
 - SVG assets
 
 Resources by Jota-Go, original code by DavidF and editing by me. <br>
-![View project](https://github.com/05JackGB/GPV-8bitdo-pro2_XboxLayout)
+![View project](https://github.com/05JackGB/GPV-8bitdo-pro2_XboxLayout)<br>
+![Use the skin](https://gamepadviewer.com/?p=1&css=https://05jackgb.github.io/GPV-8bitdo-pro2_XboxLayout/8bitdopro2.css)
 
 
 ## Gamesir G7 Pro
 NOT CREATED BY ME!! <br>
 It is a [Bralexanic's](https://youtu.be/cubF2rvDK1w) work. <br>
 I just store his [project's CSS](https://github.com/05JackGB/05JackGB-GamePad-Overlay-Skins/blob/main/NOTcreatedbyme/Gamesir-G7-Pro.css) <br>
-Use the skin (copy and paste this link to OBS): [https://gamepadviewer.com/?p=1&s=1&editcss=https%3A%2F%2F05jackgb.github.io%2FGamePad-Overlay-Skins%2FNOT-created-by-me%2Fgamesirg7pro.css](https://gamepadviewer.com/?p=1&s=1&editcss=https%3A%2F%2F05jackgb.github.io%2FGamePad-Overlay-Skins%2FNOT-created-by-me%2Fgamesirg7pro.css)
+![Use the skin](https://gamepadviewer.com/?p=1&s=1&editcss=https%3A%2F%2F05jackgb.github.io%2FGamePad-Overlay-Skins%2FNOT-created-by-me%2Fgamesirg7pro.css)
 
