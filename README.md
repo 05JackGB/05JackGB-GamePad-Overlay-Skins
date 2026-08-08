@@ -3,7 +3,7 @@ This is the index for my custom controller input overlays like GamePad Viewer or
 
 ## Available skins
 
-### 8BitDo Pro 2 — Xbox Layout
+### 8BitDo Pro 2
 ![View project](https://github.com/05JackGB/GPV-8bitdo-pro2_XboxLayout)
 - 8BitDo branding
 - Xbox ABXY layout
