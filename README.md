@@ -12,8 +12,7 @@ Otherwise, they will be stored as a single file inside the [NOT-created-by-me](h
 - SVG assets
 
 Resources by Jota-Go, original code by DavidF-Dev and editing by me. <br>
-![View project](https://github.com/05JackGB/GPV-8bitdo-pro2_XboxLayout)<br>
-[Use the skin](https://gamepadviewer.com/?p=1&css=https://05jackgb.github.io/GPV-8bitdo-pro2_XboxLayout/8bitdopro2.css)
+![View project](https://github.com/05JackGB/GPV-8bitdo-pro2_XboxLayout)    [Use the skin](https://gamepadviewer.com/?p=1&css=https://05jackgb.github.io/GPV-8bitdo-pro2_XboxLayout/8bitdopro2.css
 
 
 ## Gamesir G7 Pro
