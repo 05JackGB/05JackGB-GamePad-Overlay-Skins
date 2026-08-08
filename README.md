@@ -19,6 +19,6 @@ Resources by Jota-Go, original code by DavidF-Dev and editing by me. <br>
 ### NOT CREATED BY ME!! <br>
 It is made by [Bralexanic's](https://youtu.be/cubF2rvDK1w). <br>
 I just store his controller's CSS. <br>
-![View CSS](https://github.com/05JackGB/GamePad-Overlay-Skins/blob/main/NOT-created-by-me/gamesirg7pro.css)  -  [Use the skin](https://gamepadviewer.com/?p=1&s=1&editcss=https%3A%2F%2F05jackgb.github.io%2FGamePad-Overlay-Skins%2FNOT-created-by-me%2Fgamesirg7pro.css) (use with - Width: 1000 and Height: 885)
+![View CSS](https://github.com/05JackGB/GamePad-Overlay-Skins/blob/main/NOT-created-by-me/gamesirg7pro.css)  -  [Use the skin](https://gamepadviewer.com/?p=1&s=1&editcss=https%3A%2F%2F05jackgb.github.io%2FGamePad-Overlay-Skins%2FNOT-created-by-me%2Fgamesirg7pro.css) (recommended size on OBS. Width: 1000 and Height: 885)
 <br> <br>
 
