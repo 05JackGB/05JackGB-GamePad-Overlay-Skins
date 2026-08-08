@@ -1,5 +1,5 @@
 # Some GamePad Overlay Skins
-This is the index for my custom controller input overlays like GamePad Viewer or GamePad Vision.<br>
+This is the index for my custom controller input overlays for GamePad Viewer or GamePad Vision.<br>
 All skins created/edited by me will have their own repository.<br>
 Otherwise, they will be stored as a single file inside the [NOT-created-by-me](https://github.com/05JackGB/GamePad-Overlay-Skins/tree/main/NOT-created-by-me) subfolder
 
