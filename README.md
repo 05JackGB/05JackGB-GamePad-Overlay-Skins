@@ -10,6 +10,4 @@ This is the index for my custom controller input overlays like GamePad Viewer or
 - Custom joystick bases
 - Redesigned triggers
 - SVG assets
-
-[View project](...)
-[Use in GamePad Viewer](...)
+![View project](https://github.com/05JackGB/GPV-8bitdo-pro2_XboxLayout)
