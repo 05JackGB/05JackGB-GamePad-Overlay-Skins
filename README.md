@@ -18,7 +18,8 @@ Resources by Jota-Go, original code by DavidF and editing by me. <br>
 
 ## Gamesir G7 Pro
 ### NOT CREATED BY ME!! <br>
-It is made by [Bralexanic's](https://youtu.be/cubF2rvDK1w). I just store his controller's CSS. <br>
+It is made by [Bralexanic's](https://youtu.be/cubF2rvDK1w). <br>
+I just store his controller's CSS. <br>
 [View CSS](https://github.com/05JackGB/05JackGB-GamePad-Overlay-Skins/blob/main/NOTcreatedbyme/Gamesir-G7-Pro.css) <br>
-[Use the skin](https://gamepadviewer.com/?p=1&s=1&editcss=https%3A%2F%2F05jackgb.github.io%2FGamePad-Overlay-Skins%2FNOT-created-by-me%2Fgamesirg7pro.css)
+[Use the skin](https://gamepadviewer.com/?p=1&s=1&editcss=https%3A%2F%2F05jackgb.github.io%2FGamePad-Overlay-Skins%2FNOT-created-by-me%2Fgamesirg7pro.css)  <br> <br>
 
